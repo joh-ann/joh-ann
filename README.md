@@ -25,7 +25,7 @@
 
 🍁 Hi, I'm Johann! I'm a Software Engineer based in Vancouver, BC
 
-👨🏻‍💻 Currently working on: Unleash - Dog Park Finder
+👨🏻‍💻 Currently working on: Unleash
 
 🎾 Outside of coding, I enjoy playing tennis, watching movies, and trying out new restaurants!
 
