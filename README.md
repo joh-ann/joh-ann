@@ -54,15 +54,11 @@
 
 </p>
 
-<b>Upcoming</b>
+<b>Currently Learning</b>
 <p>
 <code><img title="Next.js" width="20px" src="https://imgur.com/oWrXoIa.png" alt="Next.js" /></code>
 <code><img title="TypeScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" /></code>
-<code><img title="GraphQL" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" /></code>
 <code><img title="PHP" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="TypeScript" /></code>
 <code><img title="WordPress" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="TypeScript" /></code>
-<code><img title="Sass" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" /></code>	
-<code><img title="Firebase" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" /></code>
-<code><img title="AWS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" /></code>
 </p>
 </div>
