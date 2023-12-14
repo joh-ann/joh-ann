@@ -54,7 +54,7 @@
 
 </p>
 
-<b>Currently Learning</b>
+<b>Upcoming</b>
 <p>
 <code><img title="Next.js" width="20px" src="https://imgur.com/oWrXoIa.png" alt="Next.js" /></code>
 <code><img title="TypeScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" /></code>
