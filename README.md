@@ -27,7 +27,7 @@
 
 👨🏻‍💻 Currently working on: Unleash
 
-🌱 Currently learning: Next.js!
+🌱 Currently learning: Next.js
 
 🎾 Outside of coding, I enjoy playing tennis, watching movies, and trying out new restaurants!
 
