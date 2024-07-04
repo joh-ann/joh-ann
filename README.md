@@ -23,11 +23,11 @@
 
 </div>
 
-🍁 Hi, I'm Johann! I'm a Software Engineer based in Vancouver, BC
+🍁 Hi, I'm Johann! I'm a Developer based in Vancouver, BC
 
-👨🏻‍💻 Currently working on: Unleash
+👨🏻‍💻 Currently working at GMJ Home Designs as a Project Coordinator & Web Developer
 
-🎾 Outside of coding, you can find me on the tennis court, watching a good movie, or exploring new restaurants!
+🎾 In my free time I enjoy walking my dogs, watching sports, and trying out new places to eat!
 
 <br>
 
@@ -45,18 +45,14 @@
 <code><img title="Mocha" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="Mocha" /></code>
 <code><img title="Next.js" width="20px" src="https://imgur.com/oWrXoIa.png" alt="Next.js" /></code>
 <code><img title="NPM" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" /></code>
+<code><img title="PHP" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="TypeScript" /></code>
 <code><img title="React" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" /></code>
 <code><img title="Redux" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" /></code>
 <code><img title="TailwindCSS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" /></code>
 <code><img title="TypeScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" /></code>
 <code><img title="Visual Studio Code" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" /></code>
 <code><img title="Webpack" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" /></code>
-
-</p>
-
-<b>Upcoming</b>
-<p>
 <code><img title="WordPress" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="TypeScript" /></code>
-<code><img title="PHP" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="TypeScript" /></code>
+
 </p>
-</div>
+
