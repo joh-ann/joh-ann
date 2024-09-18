@@ -19,13 +19,13 @@
 <img src="https://komarev.com/ghpvc/?username=joh-ann&style=for-the-badge&color=26444c" alt="Profile Views"/>
 
 
-## Johann Dee・Software Engineer
+## Johann Dee・Front-end Developer
 
 </div>
 
-🍁 Hi, I'm Johann! I'm a Developer based in Vancouver, BC
+🍁 Hi, I'm Johann! I'm a Front-end Developer based in Vancouver, BC
 
-👨🏻‍💻 Currently working at GMJ Home Designs as a Project Coordinator & Web Developer
+👨🏻‍💻 Currently working at GMJ Home Designs Ltd as a Project Coordinator
 
 🎾 In my free time I enjoy walking my dogs, watching sports, and trying out new places to eat!
 
