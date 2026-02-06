@@ -19,7 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=joh-ann&style=for-the-badge&color=26444c" alt="Profile Views"/>
 
 
-## Johann Dee・Front-end Developer
+## JD・Front-end Developer
 
 </div>
 
