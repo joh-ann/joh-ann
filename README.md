@@ -23,9 +23,9 @@
 
 </div>
 
-🍁 Hi, I'm Johann! I'm a Front-end Developer based in Vancouver, BC
+🍁 Hi, I'm Joh! I'm a Front-end Developer based in Vancouver, BC
 
-👨🏻‍💻 I'm currently working at GMJ Home Designs Ltd as a Project Coordinator
+👨🏻‍💻 I'm currently working as a Project Coordinator
 
 🎾 In my free time I enjoy walking my dogs, watching sports, and trying out new places to eat!
 
